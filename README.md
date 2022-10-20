@@ -2,6 +2,8 @@
 
 An undergraduate majoring in chemistry, a beginner learning something about computer science.
 
+[English](https://github.com/Cleveland225/Cleveland225/blob/main/README.md)	[中文](https://github.com/Cleveland225/Cleveland225/blob/main/README_cn.md)	[日本語](https://github.com/Cleveland225/Cleveland225/blob/main/README_jp.md)
+
 <h3>Research</h3>
 
 Inorganic chemistry

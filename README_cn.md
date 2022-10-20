@@ -2,6 +2,8 @@
 
 化学专业的本科生，但是在努力学习计科相关知识QAQ。
 
+[English](https://github.com/Cleveland225/Cleveland225/blob/main/README.md)	[中文](https://github.com/Cleveland225/Cleveland225/blob/main/README_cn.md)	[日本語](https://github.com/Cleveland225/Cleveland225/blob/main/README_jp.md)
+
 <h3>研究方向</h3>
 
 无机化学

@@ -2,6 +2,8 @@
 
 化学を専攻する大学生が、コンピュータサイエンスの初心者
 
+[English](https://github.com/Cleveland225/Cleveland225/blob/main/README.md)	[中文](https://github.com/Cleveland225/Cleveland225/blob/main/README_cn.md)	[日本語](https://github.com/Cleveland225/Cleveland225/blob/main/README_jp.md)
+
 <h3>研究</h3>
 
 無機化学
